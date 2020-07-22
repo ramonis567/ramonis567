@@ -1,6 +1,6 @@
-## Hello 👋
+# Hello 👋
 
-## **I'am Ramon Matos**
+### **I'am Ramon Matos**
 
 - :earth_americas: **I live in Belo Horizonte - Brazil**
 - :books: I currently study **Control and Automation Engineering** at the **Federal University of Minas Gerais**
