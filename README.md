@@ -4,7 +4,7 @@
 
 - :earth_americas: **I live in Belo Horizonte - Brazil**
 - :books: I currently study **Control and Automation Engineering** at the **Federal University of Minas Gerais**
-- :desktop_computer: **I’m currently learning Python and Data Science**
+- :desktop_computer: **I’m currently learning Web Development**
 - :technologist: **Languages and technologies:** C/C++, HTML/CSS/Javascript, React, Python and Arduino
 - :hammer_and_pick:	**Tools**: Atom, Arduino IDE, Git/Github, VS Code, Jupyter Notebook, and others.
 
