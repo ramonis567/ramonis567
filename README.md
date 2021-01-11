@@ -9,4 +9,4 @@
 - :hammer_and_pick:	**Tools**: Atom, Arduino IDE, Git/Github, VS Code, Jupyter Notebook, and others.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramoneng)](https://www.linkedin.com/in/ramoneng)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramoneng)](https://www.linkedin.com/in/ramoneng)
