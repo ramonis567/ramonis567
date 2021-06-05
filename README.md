@@ -4,7 +4,7 @@
 - :books: I currently study **Control and Automation Engineering** at the **Federal University of Minas Gerais**
 - :desktop_computer: **I’m currently learning Web Development and Blockchain Development**
 
-## :technologist: :hammer_and_pick: **Languages, technologies and tools:**
+## :hammer_and_pick: **Languages, technologies and tools:**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,5 +26,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-## :technologist: :hammer_and_pick: **Social networks:**
+## :technologist: **Social networks:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramoneng)](https://www.linkedin.com/in/ramoneng)
