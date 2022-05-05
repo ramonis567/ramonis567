@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramon Matos
 
-- :earth_americas: **I live in Belo Horizonte - Brazil**
+- :earth_americas: **Belo Horizonte - Brazil**
 - :books: I currently study **Control and Automation Engineering** at the **Federal University of Minas Gerais**
 - :desktop_computer: **I’m currently learning Web Development and Blockchain Development**
 
