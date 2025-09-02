@@ -1,8 +1,9 @@
-# Hi 👋, I'm Ramon Matos
+# Hi 👋, I'm Ramon MATOS
 
-- :earth_americas: **Belo Horizonte - Brazil**
+- :earth_americas: **Belo Horizonte - MG - Brazil**
 - :books: I currently study **Control and Automation Engineering** at the **Federal University of Minas Gerais**
-- :desktop_computer: **I’m currently learning Web Development and Blockchain Development**
+- :factory_worker: I'm working at **Actemium** (Group: Vinci) as Enginnering Assistant
+- :desktop_computer: **I’m currently working with Web Development (Actemium), Data Analysis and Enginnering (Actemium) and Blockchain Development (Personal)**
 
 ## :hammer_and_pick: **Languages, technologies and tools:**
 
