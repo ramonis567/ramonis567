@@ -2,8 +2,8 @@
 
 - :earth_americas: **Belo Horizonte - MG - Brazil**
 - :books: I currently study **Control and Automation Engineering** at the **Federal University of Minas Gerais**
-- :factory_worker: I'm working at **Actemium** (Group: Vinci) as Enginnering Assistant
-- :desktop_computer: **I’m currently working with Web Development (Actemium), Data Analysis and Enginnering (Actemium) and Blockchain Development (Personal)**
+- :factory_worker: I'm working at **Actemium** (Group Vinci) as Enginnering Assistant, working to solve problems and prevent problems from occurring. 
+- :desktop_computer: I’m currently working with **Web Development (React/Node Js)** (Actemium), **Data Analysis and Enginnering (Python, Power BI, Excel MS Platform)** (Actemium) and **Blockchain Development (Hyperledger Fabric)** (Personal)
 
 ## :hammer_and_pick: **Languages, technologies and tools:**
 
