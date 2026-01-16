@@ -1,10 +1,10 @@
 # 👋 Hi, I'm **Ramon Matos**
 
 - 🌍 **Belo Horizonte, MG – Brazil**  
-- 🎓 **Control and Automation Engineering student** at the **Federal University of Minas Gerais (UFMG)**  
-- 🏭 **Engineering Assistant at Actemium (VINCI Energies Group)** — contributing to automation and digitalization projects, focusing on **problem-solving, process reliability**, and **continuous improvement**  
-- 💻 Currently engaged in **Web Development (React & Node.js)**, **Data Engineering and Analytics (Python, Power BI, Excel, MS Platform)**, and academic research in **Blockchain for Energy Management (Hyperledger Fabric)**  
-- ⚙️ Experienced with **Industrial Automation Systems (PLC, SCADA, Industrial Protocols)** and integration through **OPC servers and IIoT architectures**.  
+- 🎓 **Control and Automation Engineer (Federal University of Minas Gerais - UFMG)**
+- 🏭 **Engineering Assistant at Actemium (VINCI Energies Group)** — contributing to automation and digitalization projects, focusing on **problem-solving, process reliability, solutions design**, and **continuous improvement**
+- 💻 Currently engaged in **System Development (Solutions architecture, MERN stack dev)**, **Data Engineering and Analytics** (Python, Power BI, Excel, MS Platform) for project management, and researches into **Blockchain applications**  
+- ⚙️ Experienced with **Industrial Automation Systems (PLC, SCADA, Industrial Protocols)** and integration through **servers and IIoT architectures**.  
 
 ---
 
